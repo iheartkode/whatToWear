@@ -1,0 +1,39 @@
+body {
+  padding: 45px 0;
+  font: 13px 'Open Sans', "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+
+
+#weather {
+  width: 800px;
+  margin: 0px auto;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+}
+
+button {
+  height: 50px;
+  width: 100px;
+}
+
+h1, h3 {
+  font-size: 50px;
+  color: #285943;
+}
+
+
+.textbox {
+  font-size: 25px;
+  color: #285943;
+  border: 2px solid #8CD790;
+  border-radius: 10px;
+  outline:0;
+  height: 50px;
+  width: 275px;
+  padding-left:10px;
+  padding-right:10px;
+}
